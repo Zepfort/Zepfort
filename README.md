@@ -1,6 +1,10 @@
 # Hi, I'm Alif Januar Rizky 👋
 
-IT Student at Universitas Negeri Yogyakarta and Web Developer building modern web applications with **SvelteKit** and **Laravel**.
+A 7th-semester Information Technology major interested in web development.
+
+Interested in building modern applications with a headless architecture: frontend using **SvelteKit** and backend API using **Laravel**. Has experience developing RESTful APIs with Laravel.
+
+Uses AI as a partner in website development.
 
 ---
 
