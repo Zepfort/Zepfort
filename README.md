@@ -25,14 +25,6 @@ Uses AI as a partner in website development.
 
 ---
 
-### 📊 GitHub Stats
-
-![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zepfort&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zepfort&layout=compact&theme=dark)
-
----
-
 ### 📫 Let's Connect!
 
 - Portfolio: `alifjnanuar.my.id`
