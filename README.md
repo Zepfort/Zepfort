@@ -1,4 +1,4 @@
-# Hi, I'm Alif Januar Rizky 👋
+# Hello guys, I'm Alif Januar Rizky 👋
 
 A 7th-semester Information Technology major interested in web development.
 
